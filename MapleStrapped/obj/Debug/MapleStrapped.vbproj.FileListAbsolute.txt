@@ -1,0 +1,8 @@
+D:\VB.Net Projects\MapleStrapped\MapleStrapped\bin\MapleStrapped.dll
+D:\VB.Net Projects\MapleStrapped\MapleStrapped\bin\MapleStrapped.pdb
+D:\VB.Net Projects\MapleStrapped\MapleStrapped\bin\MapleStrapped.xml
+D:\VB.Net Projects\MapleStrapped\MapleStrapped\obj\Debug\MapleStrapped.Resources.resources
+D:\VB.Net Projects\MapleStrapped\MapleStrapped\obj\Debug\MapleStrapped.vbproj.GenerateResource.Cache
+D:\VB.Net Projects\MapleStrapped\MapleStrapped\obj\Debug\MapleStrapped.dll
+D:\VB.Net Projects\MapleStrapped\MapleStrapped\obj\Debug\MapleStrapped.xml
+D:\VB.Net Projects\MapleStrapped\MapleStrapped\obj\Debug\MapleStrapped.pdb
